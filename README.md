@@ -1,4 +1,4 @@
-# Hola, soy Alfonso Ramos Díaz 👋
+# Hola, soy Alfonso Ramos Díaz
 
 Bienvenido a mi perfil de GitHub. Aquí encontrarás mis proyectos y trabajos destacados.
 
