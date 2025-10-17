@@ -6,9 +6,9 @@ Bienvenido a mi perfil de GitHub. Aquí encontrarás mis proyectos y trabajos de
 
 ## 🔹 Proyectos Destacados
 
-- [Proyecto 1](https://github.com/alfonso-ramos-diaz/proyecto-1) – Breve descripción de tu primer proyecto.
-- [Proyecto 2](https://github.com/alfonso-ramos-diaz/proyecto-2) – Breve descripción de tu segundo proyecto.
-- [Proyecto 3](https://github.com/alfonso-ramos-diaz/proyecto-3) – Breve descripción de tu tercer proyecto.
+- [Proyecto 1](https://github.com/alfonso-ramos-diaz/proyecto-1) – Descripción proyecto.
+- [Proyecto 2](https://github.com/alfonso-ramos-diaz/proyecto-2) – Descripción proyecto.
+- [Proyecto 3](https://github.com/alfonso-ramos-diaz/proyecto-3) – Descripción proyecto.
 
 ---
 
